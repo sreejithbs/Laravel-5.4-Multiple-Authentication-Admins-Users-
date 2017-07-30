@@ -7,7 +7,7 @@ _Laravel 5.4 Multiple Authentication_ consists of ADMIN and USER separate authen
 ## Installation
 1. CLONE the package via the command line:
 ```js
-  git clone https://github.com/sreejithbs/Laravel-5.4-Multiple-Authentication-Native.git
+  git clone https://github.com/sreejithbs/Laravel-Multiple-Authentication-Native.git
 ```
 2. Change into the working directory
 ```
