@@ -40,7 +40,9 @@ Use these credential to login :
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/30528898/28754835-2d2f8086-756b-11e7-96b1-ab4b80a0ffe4.png)
+***
 ![image](https://user-images.githubusercontent.com/30528898/28754841-4a21e436-756b-11e7-8ce3-b0e9f3536233.png)
+***
 ![image](https://user-images.githubusercontent.com/30528898/28754846-62cfce6c-756b-11e7-8274-16983d5dfddc.png)
 
 
